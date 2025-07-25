@@ -1,2 +1,4 @@
 # My-Demo
-This is my First Repository.Author JayaPrakash
+This is my First Git Repository.
+<br>
+Author JayaPrakash
